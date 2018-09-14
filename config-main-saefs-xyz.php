@@ -39,9 +39,9 @@ class Config {
     // ------------------------------------------------------------------------
 
     const DB_HOST       = 'localhost';
-    const DB_NAME       = 'saefs_appoint';
-    const DB_USERNAME   = 'saefs_appoint';
-    const DB_PASSWORD   = 'saef123#';
+    const DB_NAME       = '';
+    const DB_USERNAME   = '';
+    const DB_PASSWORD   = '';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
